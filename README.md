@@ -1,4 +1,7 @@
-# modul_mp_13
+# Modul Mobile Programming I (13)
+
+Screenshoot hasil :
+![image](https://github.com/adityamputra27/modul-mp-13/assets/68887223/2a795bc0-c387-4150-8139-0b1f0818becb)
 
 A new Flutter project.
 
